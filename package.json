@@ -1,0 +1,15 @@
+{
+  "name": "velvet_tx",
+  "version": "1.0.0",
+  "description": "Velvet transaction on Bitcoin Cash",
+  "main": "create_transaction.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Georgios Christoglou",
+  "license": "MIT",
+  "dependencies": {
+    "bclient": "0.0.2",
+    "bcoin": "file:../bcoin"
+  }
+}
